@@ -1,0 +1,318 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="VKR.Entities.AlgorithmParameters">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>IAAEAIAAAAAAQAAAAAAAAEACAAAAAAABAAAAgAAAAAA=</HashCode>
+      <FileName>Entities\AlgorithmParameters.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.Component">
+    <Position X="2" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAABAKQAQAAAAAUAQAAAAAAAQAAAQIQAAAYAAAYAA=</HashCode>
+      <FileName>Entities\Component.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.Components" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAABAAAAAAAIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Components.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.Footprint">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAIAAABACAAAAAAAAAAEQAABAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Footprint.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.Pad" Collapsed="true">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAAAAAgAAAAAAAAgQAAAAAAAAACAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Entities\Pad.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.Pads">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Pads.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.PCB">
+    <Position X="5.75" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAgAABACAAAAAQIAAEEAAABAAAAAIAACAAAAAAAA=</HashCode>
+      <FileName>Entities\PCB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.Pin">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACAAgIAAQAAAAAAABAAAAAAAAAAAAAAAAAQAAAYAA=</HashCode>
+      <FileName>Entities\Pin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.Pins" Collapsed="true">
+    <Position X="7.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABAAAAAAAAAAQAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Pins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.ForbiddenZone">
+    <Position X="7.75" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACIAAIBASAAAAAAABAAEQAABAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Entities\ForbiddenZone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.ForbiddenZones">
+    <Position X="7.75" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAACAAAAAAAA=</HashCode>
+      <FileName>Entities\ForbiddenZones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.Project">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEIAIAAEAAQAIEAAAgAAAAQEAABAAgAAAAAAAAAACAE=</HashCode>
+      <FileName>Entities\Project.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.Scheme">
+    <Position X="3.75" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIAAIAAAAAAAIAAAAAAAAAQAAAAIAAAAIAAEAAAAAAA=</HashCode>
+      <FileName>Entities\Scheme.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.Wire">
+    <Position X="11.25" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CIACAAAAAAAAAAAAAABBAAAAAAAAAAAAQAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Wire.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.Wires">
+    <Position X="13" Y="2.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAEAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Wires.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.Zone">
+    <Position X="9.5" Y="3.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAACIAAIBASAIAAAAABAAEQAABAIAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Entities\Zone.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Entities.Zones">
+    <Position X="9.5" Y="7" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Entities\Zones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.MainForm">
+    <Position X="4.75" Y="7.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+      <Compartment Name="Properties" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>ARJElBHTDCaMQICGmYCyKDBHhgAEgCzIixAYCQDSgAE=</HashCode>
+      <FileName>Forms\MainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.NewProject">
+    <Position X="7.5" Y="11.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AABAAAAQACAAABAAAACAAAACAABAQAAAABAQEAAAAAA=</HashCode>
+      <FileName>Forms\NewProject.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Forms.DataofPCB">
+    <Position X="4.75" Y="15.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AkQgAggAACIAABIAAgCAAAACBAEKAggAAAgAAAAAAAA=</HashCode>
+      <FileName>Forms\DataofPCB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Forms.DataofComponents">
+    <Position X="9.25" Y="11.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>8CARAAAAASAAAnKQEFiAIAhCIQAIQAAIEDAAyAAAAJA=</HashCode>
+      <FileName>Forms\DataofComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Forms.DataofPins">
+    <Position X="7" Y="15.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAAAAAAACAAAACAAAAQAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Forms\DataofPins.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Forms.DataofWires">
+    <Position X="11.25" Y="10" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>CAAAAAAAACAAABAEAACAAAACAAAYQAAAEGAIAAACAAA=</HashCode>
+      <FileName>Forms\DataofWires.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Forms.DataofZones">
+    <Position X="11" Y="14" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>cCAAAAAAASAAABCBEACAAABCIGE4AAAAEHAIAAAAAIA=</HashCode>
+      <FileName>Forms\DataofZones.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Forms.TablesPCB">
+    <Position X="9.75" Y="17.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAgCAAABAAAACAgAACAAAIIAAAAAAAIAAAAAA=</HashCode>
+      <FileName>Forms\TablesPCB.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Forms.TablesComponents">
+    <Position X="7.5" Y="18.5" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>gAABAAAAACAAAAAAAACAoAACAAAAIAAAAIAAAAAAEAA=</HashCode>
+      <FileName>Forms\TablesComponents.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Forms.AlgorithmSettings">
+    <Position X="11.75" Y="18.25" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AEAAAAAEACALiBAACECAAAASACCBggAACAIQAACAAAA=</HashCode>
+      <FileName>Forms\AlgorithmSettings.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Tools.ToolForExport">
+    <Position X="9.25" Y="21.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAICAAAIAAACAAAAAABEIAAAAEAAIAAAAEAAAAAAA=</HashCode>
+      <FileName>Tools\ToolForExport.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Tools.ToolForSave">
+    <Position X="11.5" Y="22.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIIAAAAAAAAAAAAAgAAAAAQAEAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tools\ToolForSave.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Tools.Database">
+    <Position X="7.5" Y="22.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEQAIAAAAAAAAAAAAAABBIAAAAAAAEAAAAAAAAAAAAA=</HashCode>
+      <FileName>Tools\Database.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Algorihm.Placement">
+    <Position X="5.25" Y="20" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACAAFAAAAAAAAAAAAAAAAACAAAAAAEAAAAA=</HashCode>
+      <FileName>Algorihm\Placement.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Algorihm.KohonenNetwork">
+    <Position X="5" Y="22.75" Width="1.5" />
+    <Compartments>
+      <Compartment Name="Fields" Collapsed="true" />
+    </Compartments>
+    <TypeIdentifier>
+      <HashCode>AIIgAiBAIiIAGKQAACAAgAKAAAgAAAAIAEQAAACAAAA=</HashCode>
+      <FileName>Algorihm\KohonenNetwork.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Algorihm.Neuron">
+    <Position X="7.75" Y="26" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIDASAAAEAAABAAEAAABAAAAABAAAAAAAC5AA=</HashCode>
+      <FileName>Algorihm\Neuron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VKR.Algorihm.PinNeuron" Collapsed="true">
+    <Position X="9.5" Y="26" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAIAAQAAAAAAAFAEAAAAAAAAAAAAAAAAAAAYAA=</HashCode>
+      <FileName>Algorihm\Neuron.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

@@ -1,0 +1,611 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\damir\\Documents\\Repository\\VKR\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|PlacementPCBComponent||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|c:\\users\\damir\\documents\\repository\\vkr\\vkr\\algorihm\\placement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\algorihm\\placement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\algorihm\\neurons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\algorihm\\neurons.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\algorihm\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\algorihm\\neuron.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\algorihm\\kohonennetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\algorihm\\kohonennetwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\tools\\toolforsave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\tools\\toolforsave.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\tools\\toolforexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\tools\\toolforexport.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\tools\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\tools\\draw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\zones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\zones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\scheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\scheme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\pins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\pins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\pin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\pcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\pcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\pads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\pads.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\pad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\pad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\forbiddenzones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\forbiddenzones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\forbiddenzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\forbiddenzone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\footprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\footprint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\components.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\component.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\algorithmparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\algorithmparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\tools\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\tools\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\zone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\entities\\wires.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\entities\\wires.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\forms\\tablespcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\forms\\tablespcb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\forms\\tablescomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\forms\\tablescomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\forms\\algorithmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\forms\\algorithmsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\forms\\dataofzones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\forms\\dataofzones.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\forms\\dataofwires.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\forms\\dataofwires.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\forms\\dataofpins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\forms\\dataofpins.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\forms\\dataofcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\forms\\dataofcomponents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\tools\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\tools\\util.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|C:\\Users\\damir\\Documents\\Repository\\VKR\\vkr\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\VKR.csproj|solutionrelative:vkr\\forms\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1F739B11-BC99-46C6-BC06-D8774CBC551E}|VKR\\PlacementPCBComponent.csproj|c:\\users\\damir\\documents\\repository\\vkr\\vkr\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Placement.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Algorihm\\Placement.cs",
+              "RelativeDocumentMoniker": "VKR\\Algorihm\\Placement.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Algorihm\\Placement.cs",
+              "RelativeToolTip": "VKR\\Algorihm\\Placement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.534Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PlacementPCBComponent",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\PlacementPCBComponent.csproj",
+              "RelativeDocumentMoniker": "VKR\\PlacementPCBComponent.csproj",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\PlacementPCBComponent.csproj",
+              "RelativeToolTip": "VKR\\PlacementPCBComponent.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-16T10:55:02.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "MainForm.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "VKR\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\damir\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2023-2024 \u0443\u0447. \u0433\u043E\u0434\\\u0422\u0412\u041F\u0410\u041F\\\u041B\u0410\u0411\u0410 6-8\\VKR\\VKR\\Forms\\MainForm.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\OneDrive\\\u0414\u043E\u043A\u0443\u043C\u0435\u043D\u0442\u044B\\2023-2024 \u0443\u0447. \u0433\u043E\u0434\\\u0422\u0412\u041F\u0410\u041F\\\u041B\u0410\u0411\u0410 6-8\\VKR\\VKR\\Forms\\MainForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-16T08:45:59.285Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "MainForm.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\MainForm.cs",
+              "RelativeDocumentMoniker": "VKR\\Forms\\MainForm.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\MainForm.cs",
+              "RelativeToolTip": "VKR\\Forms\\MainForm.cs",
+              "ViewState": "AQIAACYCAAAAAAAAAAAQwE8CAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-16T08:45:59.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Neurons.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Algorihm\\Neurons.cs",
+              "RelativeDocumentMoniker": "VKR\\Algorihm\\Neurons.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Algorihm\\Neurons.cs",
+              "RelativeToolTip": "VKR\\Algorihm\\Neurons.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.8Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Neuron.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Algorihm\\Neuron.cs",
+              "RelativeDocumentMoniker": "VKR\\Algorihm\\Neuron.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Algorihm\\Neuron.cs",
+              "RelativeToolTip": "VKR\\Algorihm\\Neuron.cs",
+              "ViewState": "AQIAAFMAAAAAAAAAAAA0wGQAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.802Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "KohonenNetwork.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Algorihm\\KohonenNetwork.cs",
+              "RelativeDocumentMoniker": "VKR\\Algorihm\\KohonenNetwork.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Algorihm\\KohonenNetwork.cs",
+              "RelativeToolTip": "VKR\\Algorihm\\KohonenNetwork.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.803Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ToolForSave.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Tools\\ToolForSave.cs",
+              "RelativeDocumentMoniker": "VKR\\Tools\\ToolForSave.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Tools\\ToolForSave.cs",
+              "RelativeToolTip": "VKR\\Tools\\ToolForSave.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ToolForExport.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Tools\\ToolForExport.cs",
+              "RelativeDocumentMoniker": "VKR\\Tools\\ToolForExport.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Tools\\ToolForExport.cs",
+              "RelativeToolTip": "VKR\\Tools\\ToolForExport.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.805Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Draw.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Tools\\Draw.cs",
+              "RelativeDocumentMoniker": "VKR\\Tools\\Draw.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Tools\\Draw.cs",
+              "RelativeToolTip": "VKR\\Tools\\Draw.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Zones.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Zones.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\Zones.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Zones.cs",
+              "RelativeToolTip": "VKR\\Entities\\Zones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Project.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\Project.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Project.cs",
+              "RelativeToolTip": "VKR\\Entities\\Project.cs",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAuwE8AAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Scheme.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Scheme.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\Scheme.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Scheme.cs",
+              "RelativeToolTip": "VKR\\Entities\\Scheme.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADwAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Pins.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Pins.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\Pins.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Pins.cs",
+              "RelativeToolTip": "VKR\\Entities\\Pins.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Pin.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Pin.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\Pin.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Pin.cs",
+              "RelativeToolTip": "VKR\\Entities\\Pin.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAUwAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.81Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PCB.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\PCB.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\PCB.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\PCB.cs",
+              "RelativeToolTip": "VKR\\Entities\\PCB.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAAAE8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.811Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Pads.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Pads.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\Pads.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Pads.cs",
+              "RelativeToolTip": "VKR\\Entities\\Pads.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Pad.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Pad.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\Pad.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Pad.cs",
+              "RelativeToolTip": "VKR\\Entities\\Pad.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ForbiddenZones.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\ForbiddenZones.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\ForbiddenZones.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\ForbiddenZones.cs",
+              "RelativeToolTip": "VKR\\Entities\\ForbiddenZones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ForbiddenZone.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\ForbiddenZone.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\ForbiddenZone.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\ForbiddenZone.cs",
+              "RelativeToolTip": "VKR\\Entities\\ForbiddenZone.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Footprint.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Footprint.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\Footprint.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Footprint.cs",
+              "RelativeToolTip": "VKR\\Entities\\Footprint.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Components.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Components.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\Components.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Components.cs",
+              "RelativeToolTip": "VKR\\Entities\\Components.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.815Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Component.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Component.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\Component.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Component.cs",
+              "RelativeToolTip": "VKR\\Entities\\Component.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "AlgorithmParameters.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\AlgorithmParameters.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\AlgorithmParameters.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\AlgorithmParameters.cs",
+              "RelativeToolTip": "VKR\\Entities\\AlgorithmParameters.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Tools\\Database.cs",
+              "RelativeDocumentMoniker": "VKR\\Tools\\Database.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Tools\\Database.cs",
+              "RelativeToolTip": "VKR\\Tools\\Database.cs",
+              "ViewState": "AQIAAJwAAAAAAAAAAAAuwL8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.817Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Zone.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Zone.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\Zone.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Zone.cs",
+              "RelativeToolTip": "VKR\\Entities\\Zone.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAAD8AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Wires.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Wires.cs",
+              "RelativeDocumentMoniker": "VKR\\Entities\\Wires.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Entities\\Wires.cs",
+              "RelativeToolTip": "VKR\\Entities\\Wires.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "TablesPCB.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\TablesPCB.cs",
+              "RelativeDocumentMoniker": "VKR\\Forms\\TablesPCB.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\TablesPCB.cs",
+              "RelativeToolTip": "VKR\\Forms\\TablesPCB.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwDsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-16T08:45:59.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "TablesComponents.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\TablesComponents.cs",
+              "RelativeDocumentMoniker": "VKR\\Forms\\TablesComponents.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\TablesComponents.cs",
+              "RelativeToolTip": "VKR\\Forms\\TablesComponents.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAuwDoAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-16T08:45:59.823Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AlgorithmSettings.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\AlgorithmSettings.cs",
+              "RelativeDocumentMoniker": "VKR\\Forms\\AlgorithmSettings.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\AlgorithmSettings.cs",
+              "RelativeToolTip": "VKR\\Forms\\AlgorithmSettings.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-16T08:45:59.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DataofPins.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\DataofPins.cs",
+              "RelativeDocumentMoniker": "VKR\\Forms\\DataofPins.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\DataofPins.cs",
+              "RelativeToolTip": "VKR\\Forms\\DataofPins.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAkwC4AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-16T08:45:59.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Util.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Tools\\Util.cs",
+              "RelativeDocumentMoniker": "VKR\\Tools\\Util.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Tools\\Util.cs",
+              "RelativeToolTip": "VKR\\Tools\\Util.cs",
+              "ViewState": "AQIAAF0AAAAAAAAAAAAUwGkAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-16T08:45:59.826Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "DataofWires.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\DataofWires.cs",
+              "RelativeDocumentMoniker": "VKR\\Forms\\DataofWires.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\DataofWires.cs",
+              "RelativeToolTip": "VKR\\Forms\\DataofWires.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-16T08:45:59.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "DataofZones.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\DataofZones.cs",
+              "RelativeDocumentMoniker": "VKR\\Forms\\DataofZones.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\DataofZones.cs",
+              "RelativeToolTip": "VKR\\Forms\\DataofZones.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-16T08:45:59.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "DataofComponents.cs",
+              "DocumentMoniker": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\DataofComponents.cs",
+              "RelativeDocumentMoniker": "VKR\\Forms\\DataofComponents.cs",
+              "ToolTip": "C:\\Users\\damir\\Documents\\Repository\\VKR\\VKR\\Forms\\DataofComponents.cs",
+              "RelativeToolTip": "VKR\\Forms\\DataofComponents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003525|",
+              "WhenOpened": "2024-09-16T08:45:59.829Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
